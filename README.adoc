@@ -5,7 +5,7 @@ image::https://img.shields.io/twitter/url/https/twitter.com/mvndaemon.svg?style=
 
 toc::[]
 
-== Introduction
+======= Introduction
 
 This project aims at providing faster https://maven.apache.org/[Maven] builds using techniques known from Gradle and
 Takari.
